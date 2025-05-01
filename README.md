@@ -74,7 +74,7 @@
   <a href="https://www.linkedin.com/in/srikanth-polamoni214" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:srikanth.polamoni@example.com">
+  <a href="mailto:polamonisrikanth123@example.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
